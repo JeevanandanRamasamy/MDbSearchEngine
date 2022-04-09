@@ -1,5 +1,3 @@
-package searchengine;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
