@@ -1,3 +1,4 @@
+import edu.princeton.cs.algs4.StdIn;
 import java.util.ArrayList;
 import java.util.Collections;
 
