@@ -1,5 +1,4 @@
-package searchengine;
-
+import edu.princeton.cs.algs4.StdOut;
 import java.util.ArrayList;
 
 public class Driver {
