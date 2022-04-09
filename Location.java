@@ -1,5 +1,3 @@
-package searchengine;
-
 /*
  * This class represents a word location on a movie's description.
  * 
